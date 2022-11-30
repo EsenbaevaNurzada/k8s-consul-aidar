@@ -7,7 +7,7 @@ description: Official HashiCorp Consul Chart
 home: https://www.consul.io
 icon: https://raw.githubusercontent.com/hashicorp/consul-k8s/main/assets/icon.png
 sources:
-  - https://github.com/EsenbaevaNurzada/k8s-consul-aidar
+  - hhttps://github.com/EsenbaevaNurzada/k8s-consul-aidar
 annotations:
   artifacthub.io/prerelease: true
   artifacthub.io/images: |
